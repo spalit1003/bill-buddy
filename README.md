@@ -2,6 +2,8 @@
 
 Bill Buddy is a web app designed to help users track shared expenses and settle balances among friends or group members. The app allows you to add users, enter expenses, and split amounts either equally or based on custom inputs. It also shows who owes whom and keeps track of all balances.
 
+Currently only the frontend has been created!
+
 Features:
 Add and manage users.
 Record shared expenses with a description, total amount, and payer.
@@ -19,7 +21,7 @@ Clone the repository:
 git clone https://github.com/your-username/bill-buddy.git
 
 Navigate to the project directory:
-cd bill-buddy
+cd bill-buddy/frontend
 
 Install dependencies:
 npm install
