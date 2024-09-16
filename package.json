@@ -1,0 +1,17 @@
+{
+  "name": "billbuddy",
+  "version": "1.0.0",
+  "description": "A simple expense tracking app similar to Splitwise.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
