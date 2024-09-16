@@ -2,15 +2,14 @@
 
 Bill Buddy is a web app designed to help users track shared expenses and settle balances among friends or group members. The app allows you to add users, enter expenses, and split amounts either equally or based on custom inputs. It also shows who owes whom and keeps track of all balances.
 
-Features
+Features:
 Add and manage users.
 Record shared expenses with a description, total amount, and payer.
 Split expenses equally or customize the amount per person.
 View the balance sheet to see who owes whom.
 User-friendly interface for easy expense tracking.
-Demo
 
-Technologies Used
+Technologies Used:
 React for the user interface
 CSS for styling
 JavaScript (ES6) for logic and handling events
